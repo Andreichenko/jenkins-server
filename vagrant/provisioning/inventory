@@ -1,0 +1,1 @@
+ansible-jenkins ansible_connection=local

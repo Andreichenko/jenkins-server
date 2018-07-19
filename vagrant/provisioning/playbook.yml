@@ -1,0 +1,9 @@
+---
+
+- hosts: all
+   
+  tasks:
+     name: install the jenkins
+     yum:
+     name: jenkins
+     state: latest
